@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net5.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.PublishSingleFile = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
+build_property.RootNamespace = pr13_1_2_VankovPavel
+build_property.ProjectDir = C:\Users\305-2\Desktop\Ваньков Павел ПР-22\Практическое занятие 13 (1,2 задания)\pr13_1_2_VankovPavel\
